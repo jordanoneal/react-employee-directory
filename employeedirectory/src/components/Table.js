@@ -14,8 +14,6 @@ const Table = () => {
 
   useEffect(() => console.log(users), [users]);
 
-
-
   return (
     <table>
       <thead>
